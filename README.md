@@ -18,7 +18,7 @@ Living life in peace...
 You may say I'm a dreamer  
 But there's a Lang with all the fun  
 I hope someday you'll join us  
-And coding will agian be fun  
+And coding will again be fun  
   
 Imagine no pointer arithmetic  
 I wonder if you can  
@@ -30,4 +30,4 @@ Sharing Go on Github...
 You may say I'm a dreamer  
 But there's a Lang with all the fun  
 I hope someday you'll join us  
-And coding will agian be fun  
+And coding will again be fun  
